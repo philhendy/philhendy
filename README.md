@@ -1,9 +1,13 @@
-## Hi there 👋
+## The Overview 👋
 
-<h2>Test Title</h2>
+<h2>👨‍💻 Software Development Projects:</h2>
 
-- [Test](https://github.com/msitarzewski/agency-agents)
+-<b> Data Structures and Algorithms Practice </b>
+  - [Practicing AI and Machine Learning](https://github.com/philhendy/machine-learning-project)
 
-[Certificates]
+-<b> 🕸️Full Stack Web Design Ideas using AI Agents </b> 
+
+  -🚵[Mountaineering Outdoors](https://github.com/philhendy/AI-Agent-practice)
+  
 
 <h2> Test Title Two </h2>
