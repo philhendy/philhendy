@@ -2,7 +2,7 @@
 
 <h2>Test Title</h2>
 
-[Twitter]
+- [Twitter]
 
 [Certificates]
 
