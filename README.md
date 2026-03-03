@@ -6,8 +6,6 @@
   - [Practicing AI and Machine Learning](https://github.com/philhendy/machine-learning-project)
 
 -<b> 🕸️Full Stack Web Design Ideas using AI Agents </b> 
-
-  -🚵[Mountaineering Outdoors](https://github.com/philhendy/AI-Agent-practice)
+  - 🚵[Mountaineering Outdoors](https://github.com/philhendy/AI-Agent-practice)
   
 
-<h2> Test Title Two </h2>
